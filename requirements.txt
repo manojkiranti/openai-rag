@@ -1,0 +1,27 @@
+# API runtime
+fastapi
+uvicorn
+httpx
+openai
+pydantic
+pydantic-settings
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Vector search and embeddings
+qdrant-client
+sentence-transformers
+
+# Document ingestion
+python-dotenv
+langchain-text-splitters
+pypdf
+python-docx
+npttf2utf
+
+# Scraper
+requests
+beautifulsoup4
+lxml
