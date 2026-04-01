@@ -15,7 +15,7 @@ ragvenv/
 .ragvenv/
 # Qdrant local data
 qdrant_data/
-
+download/
 # Processed files tracker
 processed_files.txt
 
